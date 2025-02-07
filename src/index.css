@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+li .active{
+    color: rgb(8, 104, 230);
+    font-weight: 700;
+    border-bottom: 2px solid rgb(241, 38, 241);
+}
+.min-h-screen--70px {
+    min-height: calc(100vh - 70px);
+}
+.min-h-screen--100px {
+    min-height: calc(100vh - 100px);
+}
+.shadow-custom{
+    box-shadow: 3px 3px 30px rgb(209, 11, 220);
+}
+.hideScrollbar::-webkit-scrollbar {
+    display: none;
+  }
