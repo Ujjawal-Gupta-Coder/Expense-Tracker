@@ -107,7 +107,7 @@ const FilterPanel = ({
 
   return (
     <div className="bg-zinc-600 border-2 border-red-600 w-[90%] max-w-[40rem] py-2 px-4 rounded-lg flex justify-center items-center flex-wrap gap-x-6">
-      <div>
+      <div className="step-2">
         <div className="text-gray-300 font-semibold font-patrick">
           Filter by Category
         </div>
@@ -129,7 +129,7 @@ const FilterPanel = ({
         </select>
       </div>
 
-      <div>
+      <div  className="step-3">
         <div className="text-gray-300 font-semibold font-patrick">
           Filter by Payment
         </div>
@@ -146,7 +146,7 @@ const FilterPanel = ({
         </select>
       </div>
 
-      <div>
+      <div  className="step-4">
         <div className="text-gray-300 font-semibold font-patrick">
           Sort by amount
         </div>
@@ -163,7 +163,7 @@ const FilterPanel = ({
         </select>
       </div>
 
-      <div>
+      <div  className="step-5">
         <div className="text-gray-300 font-semibold font-patrick">
           Filter by Date
         </div>

@@ -18,7 +18,7 @@ const HistoryItem = ({category, discription, amount, mode, date,id, setContextMe
   }
   return (
     <> 
-    <div onContextMenu={handleContextMenu} id={id} className='group w-[90%] max-w-[40rem] h-auto flex justify-between items-center border-[3px] border-yellow-600 rounded-xl py-3 px-3 bg-gradient-to-r from-sky-500 via-blue-600 to-purple-500 cursor-pointer hover:bg-blue-500'>
+    <div onContextMenu={handleContextMenu} id={id} className='group w-[90%] max-w-[40rem] h-auto flex justify-between items-center border-[3px] border-yellow-600 rounded-xl py-3 px-3 bg-gradient-to-r from-sky-500 via-blue-600 to-purple-500 cursor-pointer hover:bg-blue-500 step-7'>
       <div className='px-2 flex flex-col items-start justify-start' onContextMenu={childElemntContextMenu}>
         <h2 className='text-4xl text-white font-patrick md:mb-2'>{category}</h2>
         <p className='text-gray-300 text-balance text-sm'>{discription}</p>

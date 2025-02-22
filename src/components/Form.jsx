@@ -9,8 +9,7 @@ import { v4 as uuidv4 } from "uuid";
 const Form = ({ maxDiscriptionLimit }) => {
   const maxlenghtForDiscription = maxDiscriptionLimit;
   const [expenseData, setExpenseData] = useContext(expenseDataContext);
-  const [expenseDataStorage, setExpenseDataStorage] =
-    useLocalStorage("expenseData");
+  const [expenseDataStorage, setExpenseDataStorage] = useLocalStorage("expenseData");
 
   const {
     register,
@@ -49,7 +48,7 @@ const Form = ({ maxDiscriptionLimit }) => {
       </h3>
 
       <form
-        className="flex flex-col gap-4 w-full"
+        className="flex flex-col gap-4 w-full step-2"
         onSubmit={handleSubmit(onSubmit)}
         noValidate
       >

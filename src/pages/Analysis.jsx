@@ -4,6 +4,8 @@ import { expenseCategories, months } from "../../helper";
 import { expenseDataContext } from "../contexts/expenseDatacontext";
 import Heading from "../components/Heading";
 import DoughnutChart from "../components/doughnutChart";
+import UserGuide from "../components/UserGuide";
+import Joyride from "react-joyride";
 
 const Analysis = () => {
   const [selectedYear, setSelectedYear] = useState(new Date().getFullYear());
@@ -73,13 +75,94 @@ const Analysis = () => {
     setPerYearPaymentModeWiseAmount(newPaymentModeWiseAmount);
     setDateWiseMonthAmount(newDateMonthAmount);
   }, [selectedYear, selectedMonth]);
+
+  const [runTour, setRunTour] = useState(localStorage.getItem("AnalyticsTourCompleted") !== "true");
+  const steps = [
+    {
+      target: ".step-1",
+      content: "Welcome to the Analytics Page! Get a visual breakdown of your expenses with insightful charts and graphs. Analyze your spending patterns easily and make smarter financial decisions. Let’s explore!",
+      disableBeacon: true
+    },
+    {
+      target: ".step-2",
+      content: "View expense analytics for any year from the last five or select 'All' for a complete spending overview. Track trends over time and gain deeper insights!",
+      disableBeacon: true
+    },
+    {
+      target: ".step-3",
+      content: "Select a specific month to analyze your spending or choose 'All' to see a complete overview for the selected year. Gain better insights into your monthly expenses!",
+      disableBeacon: true
+    },
+    {
+      target: ".step-4",
+      content: "This chart shows how your expenses vary month by month. Spot spending trends and manage your budget better!",
+      disableBeacon: true
+    },
+    {
+      target: ".step-5",
+      content: "See how your expenses are distributed across different categories. This chart helps you identify in which category most of your money is going!",
+      disableBeacon: true
+    },
+    {
+      target: ".step-6",
+      content: "This chart shows your expenses for each day of the month. Easily spot high-spending days and manage your budget more effectively!",
+      disableBeacon: true
+    },
+    {
+      target: ".step-7",
+      content: "Compare your expenses based on payment mode. Easily track how much you spend via online transactions versus offline purchases!",
+      disableBeacon: true
+    },
+    {
+      target: ".step-last",
+      content: "Need help? Click this button anytime to restart the tour and explore all the features again. Stay in control and navigate with ease!",
+      disableBeacon: true
+    },
+  ]
   return (
-    <div className="bg-slate-800 w-full min-h-screen--70px h-fit flex flex-col items-center gap-6 pt-5">
-      <Heading headline={'Expense Analytics Dashboard'}/>
+    <div className="bg-slate-800 w-full min-h-screen--70px h-fit flex flex-col items-center gap-6">
+      <div className="absolute">
+      <Joyride
+        steps={steps}
+        run = {runTour}
+        callback={({status}) => {
+          if(status === "finished" || status === "skipped") {
+            localStorage.setItem("AnalyticsTourCompleted", "true");
+            setRunTour(false);
+          }
+        }}
+        continuous showSkipButton showProgress disableScrolling disableOverlayClose
+        locale={{
+          last: 'Finish',
+          next: 'Next',
+          skip: 'Skip',
+        }}
+
+        styles={{
+          options: {
+            primaryColor: 'green',
+            textColor: "white",
+            backgroundColor: '#465878',
+            arrowColor:"yellow"
+          },
+          buttonNext: {
+            border: "1px solid white",
+            borderRadius: "15px"
+          },
+          buttonBack: {
+            color: "white"
+          },
+        }}
+      />
+      </div>
+      <div className="flex justify-center items-center flex-col gap-4">
+        <UserGuide text={"Guide For Analysis Page"} setRunTour={setRunTour} />
+        <Heading headline={'Expense Analytics Dashboard'}/>
+      </div>
       
 
       <div className="flex flex-col sm:flex-row items-center justify-between gap-y-2 w-[60%]">
-        <div className="flex items-center justify-center font-bold text-sm md:text-md lg:text-lg gap-2 text-white">
+        <div className="flex items-center justify-center font-bold text-sm md:text-md lg:text-lg gap-2 text-white step-2">
           <p >Select Year:</p>
           <form>
           <select value={selectedYear} onChange={handleYearChange} className="rounded-lg outline-none px-2 py-1 bg-sky-500">
@@ -105,7 +188,7 @@ const Analysis = () => {
         </form> 
         </div>
         
-        <div className="flex items-center justify-center font-bold text-sm md:text-md lg:text-lg gap-2 text-white">
+        <div className="flex items-center justify-center font-bold text-sm md:text-md lg:text-lg gap-2 text-white step-3">
           <p >Select Month:</p>
           <form>
           <select value={selectedMonth} onChange={handleMonthChange} className="rounded-lg outline-none px-2 py-1 bg-green-500">
@@ -124,19 +207,17 @@ const Analysis = () => {
         </div>
       </div>
       
-
-      {/* {!expenseData.empty && ( */}
-        <div className="w-full px-5 lg:px-12 pb-8 flex justify-center items-center gap-4 flex-col">
+      <div className="w-full px-5 lg:px-12 pb-8 flex justify-center items-center gap-4 flex-col">
 
            <div className="flex flex-col md:flex-row justify-center items-center gap-4 w-full">
 
-              <div className=" bg-slate-600 rounded-2xl text-white font-bold w-full md:w-[50%] px-2 py-1">
+              <div className=" bg-slate-600 rounded-2xl text-white font-bold w-full md:w-[50%] px-2 py-1 step-4">
                 <BarChart dataSet={perYearMonthWiseAmount} label={months} color={"#f23379"} />
               </div>
 
               
               
-              <div className="bg-slate-600 rounded-2xl text-white font-bold w-full md:w-[50%] px-2 py-1">
+              <div className="bg-slate-600 rounded-2xl text-white font-bold w-full md:w-[50%] px-2 py-1 step-5">
                 <BarChart dataSet={perYearCategoryWiseAmount} label={expenseCategories} color={"aqua"} />
               </div>
 
@@ -144,18 +225,17 @@ const Analysis = () => {
             </div> 
 
             <div className="flex flex-col-reverse md:flex-row justify-center items-center gap-4 w-full">
-              <div className="bg-slate-600 rounded-2xl text-white font-bold w-full md:w-[66%] px-2 py-1">
+              <div className="bg-slate-600 rounded-2xl text-white font-bold w-full md:w-[66%] px-2 py-1 step-6">
               <BarChart dataSet={dateWiseMonthAmount} label={dateList} color={"#FFEB00"}/>
               </div>
 
-              <div className="bg-slate-600 rounded-2xl text-white font-bold w-[50%] md:w-[34%] px-2 py-1">
+              <div className="bg-slate-600 rounded-2xl text-white font-bold w-[50%] md:w-[34%] px-2 py-1 step-7">
                 <DoughnutChart dataSet={perYearPaymentModeWiseAmount} />
               </div>
 
             </div>
           
-        </div>
-      {/* )} */}
+      </div>
     </div>
   );
 };

@@ -35,7 +35,7 @@ const TotalExpense = ({filteredExpenseData}) => {
         return formattedNumValue + '.' + decValue;
       }
   return (
-    <div className='bg-zinc-600 border-2 border-red-600 w-[90%] max-w-[40rem] py-2 px-4 text-xl sm:text-2xl rounded-lg flex justify-center gap-2'>
+    <div className='bg-zinc-600 border-2 border-red-600 w-[90%] max-w-[40rem] py-2 px-4 text-xl sm:text-2xl rounded-lg flex justify-center gap-2 step-6'>
       <div className='text-gray-300'>Total Expense: </div>
       <div className='font-bold text-white'>₹ {changeFormAmount(getTotalAmount().toString())}</div>
     </div>
