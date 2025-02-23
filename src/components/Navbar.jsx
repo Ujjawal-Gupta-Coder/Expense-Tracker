@@ -23,10 +23,9 @@ const Navbar = ({navpanel, setNavpanel}) => {
           <li className='cursor-pointer hover:text-rose-500 hover:font-bold hover:border-b-2 hover:border-rose-800'><NavLink to='/' >Home</NavLink></li>
           <li className='cursor-pointer hover:text-rose-500 hover:font-bold hover:border-b-2 hover:border-rose-800'><NavLink to='/history' >History</NavLink></li>
           <li className='cursor-pointer hover:text-rose-500 hover:font-bold hover:border-b-2 hover:border-rose-800'><NavLink to='/analysis'>Analysis</NavLink></li>
-          <li className='cursor-pointer hover:text-rose-500 hover:font-bold hover:border-b-2 hover:border-rose-800'><NavLink to='/about' >About</NavLink></li>
       </ul>
 
-      <button className='border-2 border-red-600 px-6 py-1 text-xl font-patrick font-bold rounded-lg bg-gradient-to-tr from-purple-500 to-slate-500 hover:from-purple-800 hover:to-slate-800'>Sign In</button>
+      <a href='https://ujjawal-gupta-coder.github.io/My-Portfolio/' className='border-2 border-red-600 px-6 py-1 text-xl font-patrick font-bold rounded-lg bg-gradient-to-tr from-purple-500 to-slate-500 hover:from-purple-800 hover:to-slate-800'>✨ Meet The Developer</a>
       </div>
       
 

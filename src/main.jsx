@@ -8,7 +8,6 @@ import './index.css'
 import Home from './pages/Home';
 import History from './pages/History';
 import Analysis from './pages/Analysis';
-import About from './pages/About';
 
 import {
   createBrowserRouter,
@@ -36,10 +35,6 @@ const router = createBrowserRouter([
       {
         path: "/analysis",
         element: <Analysis />,
-      },
-      {
-        path: "/about",
-        element: <About />,
       },
       {
         path : '*',
