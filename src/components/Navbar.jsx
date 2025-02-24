@@ -13,7 +13,7 @@ const Navbar = ({navpanel, setNavpanel}) => {
         <button className='flex items-center group'>
           <img src={logoImg} alt="Logo" className='h-12 w-12 rounded-full'/>
             <div>
-                <div className='text-2xl font-patrick bg-clip-text text-white group-hover:text-transparent bg-gradient-to-r from-pink-400 via-orange-400 to-sky-400 font-bold'>ExpenceTraker</div>  
+                <div className='text-2xl font-patrick bg-clip-text text-white group-hover:text-transparent bg-gradient-to-r from-pink-400 via-orange-400 to-sky-400 font-bold'>ExpenceTracker</div>  
                 <div className='h-[2px] bg-transparent rounded-xl group-hover:bg-gradient-to-l from-pink-400 via-orange-400 to-sky-400'></div>
             </div>
         </button>
