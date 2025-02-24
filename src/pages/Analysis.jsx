@@ -3,7 +3,7 @@ import BarChart from "../components/BarChart";
 import { expenseCategories, months } from "../../helper";
 import { expenseDataContext } from "../contexts/expenseDatacontext";
 import Heading from "../components/Heading";
-import DoughnutChart from "../components/doughnutChart";
+import DoughnutChart from "../components/DoughnutChart";
 import UserGuide from "../components/UserGuide";
 import Joyride from "react-joyride";
 
