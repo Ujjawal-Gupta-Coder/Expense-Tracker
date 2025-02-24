@@ -1,12 +1,12 @@
 <div align="center">
-    <a href="live-link-here" target="_blank">
+    <a href="https://expense-tracker-mu-sage.vercel.app/" target="_blank">
           <img src="./public/screenshots/Screenshot 1.png" width="1200" alt="Project Cover Image">
     </a>
     
-# [Expense Tracker](live-link-here)
+# [Expense Tracker](https://expense-tracker-mu-sage.vercel.app/)
 </div>
 
-🌟 Experience the full functionality of this Expense Tracker Application by exploring the [Live Demo](live-link-here). Click the link to see it in action and enjoy!
+🌟 Experience the full functionality of this Expense Tracker Application by exploring the [Live Demo](https://expense-tracker-mu-sage.vercel.app/). Click the link to see it in action and enjoy!
 
 Managing expenses effectively is crucial for financial stability, and our Expense Tracker simplifies this process with an intuitive and user-friendly interface. This application allows users to add, update, delete, and categorize expenses, making it easy to track spending habits. With features like dynamic filtering, interactive visualizations, and an in-app guided tour, managing your finances has never been more convenient. Whether you're keeping track of daily expenses or analyzing spending patterns over time, this expense tracker provides all the essential tools for better financial decision-making.
 
@@ -191,8 +191,8 @@ We welcome contributions! If you'd like to improve this project, please follow t
 
 - **🔗 LinkedIn :** [Ujjawal Gupta](https://www.linkedin.com/in/ujjawal-gupta-dev)
 
-- **🚀 Live Demo :** [Project Link](live-link-here)
+- **🚀 Live Demo :** [Project Link](https://expense-tracker-mu-sage.vercel.app/)
 
 - **🧑‍💻 GitHub Profile :** [https://github.com/Ujjawal-Gupta-Coder](https://github.com/Ujjawal-Gupta-Coder)
 
-- **📁 Project Repository :** [project-repo-link-here](project-repo-link-here)
+- **📁 Project Repository :** [https://github.com/Ujjawal-Gupta-Coder/Expense-Tracker](https://github.com/Ujjawal-Gupta-Coder/Expense-Tracker)
