@@ -1,0 +1,1202 @@
+[
+  {
+    "amount": "9481",
+    "category": "Groceries",
+    "date": "2023-04-25T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "ad66c02b-e04b-41a5-ac4e-4e448abfb0ae",
+    "mode": "Cash"
+  },
+  {
+    "amount": "2070",
+    "category": "Stationary",
+    "date": "2021-05-21T00:00",
+    "discription": "Bought office and writing supplies.",
+    "id": "a8bcf377-3d51-4832-9ff7-24a87bb19d47",
+    "mode": "Cash"
+  },
+  {
+    "amount": "6849",
+    "category": "Utilities",
+    "date": "2023-07-26T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "24b61e8c-8763-4e93-a256-47f286f588ee",
+    "mode": "Online"
+  },
+  {
+    "amount": "7150",
+    "category": "Groceries",
+    "date": "2024-02-05T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "ad6a1137-3e14-475c-8e0d-20fac8e72634",
+    "mode": "Cash"
+  },
+  {
+    "amount": "474",
+    "category": "Investing",
+    "date": "2023-06-04T00:00",
+    "discription": "Allocated funds for investment opportunities.",
+    "id": "76cfe252-f11c-48dd-b535-87454aae3816",
+    "mode": "Cash"
+  },
+  {
+    "amount": "1800",
+    "category": "Utilities",
+    "date": "2022-04-05T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "7267e0e9-6912-4e38-bde7-36448d26edd6",
+    "mode": "Cash"
+  },
+  {
+    "amount": "4303",
+    "category": "Travel",
+    "date": "2024-05-06T00:00",
+    "discription": "Expense for travel and transportation.",
+    "id": "3caf8942-d904-4598-a015-d50d4f805eb5",
+    "mode": "Cash"
+  },
+  {
+    "amount": "3690",
+    "category": "Insurance",
+    "date": "2023-05-24T00:00",
+    "discription": "Paid premium for insurance coverage.",
+    "id": "fdce411b-6a17-4c30-9615-91baef4222b0",
+    "mode": "Online"
+  },
+  {
+    "amount": "7602",
+    "category": "Food",
+    "date": "2023-03-21T00:00",
+    "discription": "Spent on meals and dining.",
+    "id": "1e61453e-7a51-4aeb-b498-8a9ad1960817",
+    "mode": "Online"
+  },
+  {
+    "amount": "8095",
+    "category": "Housing",
+    "date": "2021-10-28T00:00",
+    "discription": "Paid rent or housing-related costs.",
+    "id": "a4196552-3f54-467f-b7a4-5f929f390bc0",
+    "mode": "Online"
+  },
+  {
+    "amount": "2595",
+    "category": "Food",
+    "date": "2022-06-20T00:00",
+    "discription": "Spent on meals and dining.",
+    "id": "72486ea7-7c19-4443-8af3-730f5e2ba96d",
+    "mode": "Cash"
+  },
+  {
+    "amount": "4396",
+    "category": "Utilities",
+    "date": "2021-07-16T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "933865e2-312a-42b5-8627-bad50d348df4",
+    "mode": "Online"
+  },
+  {
+    "amount": "2504",
+    "category": "Insurance",
+    "date": "2023-09-22T00:00",
+    "discription": "Paid premium for insurance coverage.",
+    "id": "7041a6de-4db4-438e-91b8-783f3a8cc1b2",
+    "mode": "Cash"
+  },
+  {
+    "amount": "7638",
+    "category": "Insurance",
+    "date": "2023-09-20T00:00",
+    "discription": "Paid premium for insurance coverage.",
+    "id": "b5cbfc51-969e-4f3e-84df-c7bb92ceaf72",
+    "mode": "Cash"
+  },
+  {
+    "amount": "335",
+    "category": "Health Care",
+    "date": "2024-01-27T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "59cd6e06-64a7-4714-995b-93bb55ff035b",
+    "mode": "Online"
+  },
+  {
+    "amount": "8313",
+    "category": "Groceries",
+    "date": "2022-05-19T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "32bdbd46-6dff-48d1-850c-9ac038336003",
+    "mode": "Online"
+  },
+  {
+    "amount": "2753",
+    "category": "Investing",
+    "date": "2023-09-05T00:00",
+    "discription": "Allocated funds for investment opportunities.",
+    "id": "a363cc74-a2bb-41e3-aa80-d90cad7f26bc",
+    "mode": "Cash"
+  },
+  {
+    "amount": "3494",
+    "category": "Stationary",
+    "date": "2021-10-18T00:00",
+    "discription": "Bought office and writing supplies.",
+    "id": "1f0e2aaa-8ce7-41c4-87a0-ca20160738a0",
+    "mode": "Online"
+  },
+  {
+    "amount": "5530",
+    "category": "Health Care",
+    "date": "2023-08-22T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "29705799-805b-4808-9825-d130c530250f",
+    "mode": "Online"
+  },
+  {
+    "amount": "1249",
+    "category": "Housing",
+    "date": "2022-04-12T00:00",
+    "discription": "Paid rent or housing-related costs.",
+    "id": "244828f5-05e5-4956-b2b6-edd0e00d186e",
+    "mode": "Cash"
+  },
+  {
+    "amount": "8839",
+    "category": "Food",
+    "date": "2021-06-20T00:00",
+    "discription": "Spent on meals and dining.",
+    "id": "c1ddffe6-d35c-4ea3-b3a5-63ed5f4a351c",
+    "mode": "Cash"
+  },
+  {
+    "amount": "2850",
+    "category": "Stationary",
+    "date": "2023-05-07T00:00",
+    "discription": "Bought office and writing supplies.",
+    "id": "57728f41-a4d7-48ca-9ed8-fcf3b08d2f16",
+    "mode": "Online"
+  },
+  {
+    "amount": "960",
+    "category": "Investing",
+    "date": "2024-08-17T00:00",
+    "discription": "Allocated funds for investment opportunities.",
+    "id": "0420ccbf-1dc2-446c-9df8-82f7a71d9ffc",
+    "mode": "Cash"
+  },
+  {
+    "amount": "9166",
+    "category": "Health Care",
+    "date": "2024-03-09T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "69edcf72-1063-4ce9-a7f4-8b24863b73a8",
+    "mode": "Online"
+  },
+  {
+    "amount": "7557",
+    "category": "Insurance",
+    "date": "2022-07-24T00:00",
+    "discription": "Paid premium for insurance coverage.",
+    "id": "1e9c8b15-a3ea-4662-830f-336d8e92ae0e",
+    "mode": "Online"
+  },
+  {
+    "amount": "9327",
+    "category": "Health Care",
+    "date": "2023-01-09T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "d689e3c6-df8a-44d2-8a02-ec6a802d4302",
+    "mode": "Online"
+  },
+  {
+    "amount": "9953",
+    "category": "Stationary",
+    "date": "2021-08-01T00:00",
+    "discription": "Bought office and writing supplies.",
+    "id": "d515877a-edb2-413e-8eaa-24a9341ebc62",
+    "mode": "Online"
+  },
+  {
+    "amount": "8365",
+    "category": "Utilities",
+    "date": "2023-04-28T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "4a1cd280-703c-478c-88e4-7623fcdd2e79",
+    "mode": "Cash"
+  },
+  {
+    "amount": "2956",
+    "category": "Health Care",
+    "date": "2024-12-14T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "632c4967-f0d2-4dc3-89f6-996497a64816",
+    "mode": "Online"
+  },
+  {
+    "amount": "3519",
+    "category": "Insurance",
+    "date": "2024-04-24T00:00",
+    "discription": "Paid premium for insurance coverage.",
+    "id": "65c41c63-7880-4b21-81fc-44f5eaeb5031",
+    "mode": "Cash"
+  },
+  {
+    "amount": "3813",
+    "category": "Health Care",
+    "date": "2023-02-03T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "3010e16f-0f17-4610-b97f-06f6aab09f7e",
+    "mode": "Online"
+  },
+  {
+    "amount": "1954",
+    "category": "Debt Payment",
+    "date": "2022-02-18T00:00",
+    "discription": "Made a payment toward existing debt.",
+    "id": "6697b624-5346-4eb8-8834-a13cddb7120f",
+    "mode": "Cash"
+  },
+  {
+    "amount": "5286",
+    "category": "Groceries",
+    "date": "2021-01-25T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "bb1b14db-0a3a-49c7-9f51-d58540b40c66",
+    "mode": "Online"
+  },
+  {
+    "amount": "4257",
+    "category": "Insurance",
+    "date": "2022-12-18T00:00",
+    "discription": "Paid premium for insurance coverage.",
+    "id": "93ecfed3-6b7c-4b50-8705-90e7f5c1592d",
+    "mode": "Online"
+  },
+  {
+    "amount": "5104",
+    "category": "Insurance",
+    "date": "2021-05-11T00:00",
+    "discription": "Paid premium for insurance coverage.",
+    "id": "e74d776c-a69c-4181-8e92-7f9e2acb6a5e",
+    "mode": "Online"
+  },
+  {
+    "amount": "2273",
+    "category": "Housing",
+    "date": "2022-04-20T00:00",
+    "discription": "Paid rent or housing-related costs.",
+    "id": "20382445-66b1-44cd-8a98-82e9633b396f",
+    "mode": "Cash"
+  },
+  {
+    "amount": "7013",
+    "category": "Groceries",
+    "date": "2024-02-24T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "3ad5280b-6450-40e9-bd1b-84aeee553dc7",
+    "mode": "Online"
+  },
+  {
+    "amount": "5542",
+    "category": "Travel",
+    "date": "2023-01-26T00:00",
+    "discription": "Expense for travel and transportation.",
+    "id": "319bf35e-364f-4c83-97d9-cc85c2d7644e",
+    "mode": "Online"
+  },
+  {
+    "amount": "8245",
+    "category": "Food",
+    "date": "2024-01-18T00:00",
+    "discription": "Spent on meals and dining.",
+    "id": "8856695b-67ed-478e-9889-8f9e1fe59b19",
+    "mode": "Cash"
+  },
+  {
+    "amount": "6671",
+    "category": "Health Care",
+    "date": "2021-08-08T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "a9008c7f-2bd7-4d62-9d3e-063308e9a661",
+    "mode": "Cash"
+  },
+  {
+    "amount": "3574",
+    "category": "Stationary",
+    "date": "2021-09-30T00:00",
+    "discription": "Bought office and writing supplies.",
+    "id": "ab132a4a-9cc5-472b-bbf0-ccc9d9801ee0",
+    "mode": "Online"
+  },
+  {
+    "amount": "2867",
+    "category": "Travel",
+    "date": "2022-05-07T00:00",
+    "discription": "Expense for travel and transportation.",
+    "id": "9f3862a0-a66c-4ea8-9aca-5aba7e5c3a1b",
+    "mode": "Online"
+  },
+  {
+    "amount": "9234",
+    "category": "Health Care",
+    "date": "2021-02-01T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "c5fbc087-64e7-4fe8-b17c-e332dd7bd22b",
+    "mode": "Online"
+  },
+  {
+    "amount": "4802",
+    "category": "Investing",
+    "date": "2022-11-08T00:00",
+    "discription": "Allocated funds for investment opportunities.",
+    "id": "3c38364a-a176-46f5-bfe3-a04d36321639",
+    "mode": "Cash"
+  },
+  {
+    "amount": "3135",
+    "category": "Groceries",
+    "date": "2021-09-07T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "4aeceb12-c3a2-47b6-be01-debb1264b7ad",
+    "mode": "Online"
+  },
+  {
+    "amount": "294",
+    "category": "Groceries",
+    "date": "2024-03-03T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "5b4f7598-3122-4878-bfcc-9cbb08f0527b",
+    "mode": "Cash"
+  },
+  {
+    "amount": "2517",
+    "category": "Debt Payment",
+    "date": "2021-11-29T00:00",
+    "discription": "Made a payment toward existing debt.",
+    "id": "0b39e045-2f78-4a36-847a-a22a18fefed6",
+    "mode": "Cash"
+  },
+  {
+    "amount": "5908",
+    "category": "Utilities",
+    "date": "2021-07-25T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "eeddde2c-bc6d-4412-a6c9-c9f37e7b672f",
+    "mode": "Online"
+  },
+  {
+    "amount": "1310",
+    "category": "Utilities",
+    "date": "2024-03-24T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "e96738c7-851b-4a96-97f1-6ceebf8de585",
+    "mode": "Cash"
+  },
+  {
+    "amount": "7513",
+    "category": "Utilities",
+    "date": "2022-05-26T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "1eaf4bcc-acb7-4403-86fc-d30d9c806b34",
+    "mode": "Online"
+  },
+  {
+    "amount": "7057",
+    "category": "Health Care",
+    "date": "2022-03-03T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "8fa49fdd-2de3-4683-ae92-9d20d5eb465b",
+    "mode": "Cash"
+  },
+  {
+    "amount": "8959",
+    "category": "Food",
+    "date": "2022-08-13T00:00",
+    "discription": "Spent on meals and dining.",
+    "id": "21ff2477-0acf-4bf1-b0b0-de9e66285e44",
+    "mode": "Cash"
+  },
+  {
+    "amount": "2077",
+    "category": "Groceries",
+    "date": "2023-05-02T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "572cca6e-6341-4fcf-8159-86a2a28d236d",
+    "mode": "Cash"
+  },
+  {
+    "amount": "1970",
+    "category": "Groceries",
+    "date": "2024-01-10T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "f8711aae-1407-457e-8efc-64261b1d3f16",
+    "mode": "Online"
+  },
+  {
+    "amount": "4813",
+    "category": "Utilities",
+    "date": "2021-03-27T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "fee17d5a-b69b-49c6-9b20-e11d1524ad71",
+    "mode": "Cash"
+  },
+  {
+    "amount": "9774",
+    "category": "Groceries",
+    "date": "2024-12-19T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "a1f64404-bc03-45c6-874c-119ab33a4a07",
+    "mode": "Cash"
+  },
+  {
+    "amount": "2303",
+    "category": "Food",
+    "date": "2022-02-25T00:00",
+    "discription": "Spent on meals and dining.",
+    "id": "1fdf8ad9-1732-4803-809a-50b6823ee20f",
+    "mode": "Cash"
+  },
+  {
+    "amount": "1235",
+    "category": "Investing",
+    "date": "2021-01-03T00:00",
+    "discription": "Allocated funds for investment opportunities.",
+    "id": "cf2234f7-f368-4128-b005-20c9cc468bcb",
+    "mode": "Cash"
+  },
+  {
+    "amount": "5757",
+    "category": "Investing",
+    "date": "2024-05-19T00:00",
+    "discription": "Allocated funds for investment opportunities.",
+    "id": "02813d3b-e291-4af2-9bdd-5b71bb0e1567",
+    "mode": "Online"
+  },
+  {
+    "amount": "7251",
+    "category": "Stationary",
+    "date": "2021-01-27T00:00",
+    "discription": "Bought office and writing supplies.",
+    "id": "f536140c-b53b-4180-84d1-530f689a9444",
+    "mode": "Cash"
+  },
+  {
+    "amount": "6916",
+    "category": "Debt Payment",
+    "date": "2022-11-23T00:00",
+    "discription": "Made a payment toward existing debt.",
+    "id": "0fe1fa20-07f8-49df-aeef-970f69012a63",
+    "mode": "Cash"
+  },
+  {
+    "amount": "1715",
+    "category": "Groceries",
+    "date": "2024-05-09T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "965c964b-4468-4b09-8a13-035716103218",
+    "mode": "Online"
+  },
+  {
+    "amount": "5139",
+    "category": "Travel",
+    "date": "2021-01-25T00:00",
+    "discription": "Expense for travel and transportation.",
+    "id": "5345d489-2fd4-4789-9ac8-85e76aaf8968",
+    "mode": "Online"
+  },
+  {
+    "amount": "169",
+    "category": "Travel",
+    "date": "2024-10-30T00:00",
+    "discription": "Expense for travel and transportation.",
+    "id": "e804acf9-4712-490a-a554-d525b4552b43",
+    "mode": "Online"
+  },
+  {
+    "amount": "8025",
+    "category": "Health Care",
+    "date": "2024-04-21T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "5657a304-6d1b-4210-a38d-93cd4b2c7b26",
+    "mode": "Online"
+  },
+  {
+    "amount": "4750",
+    "category": "Stationary",
+    "date": "2021-12-19T00:00",
+    "discription": "Bought office and writing supplies.",
+    "id": "ecf5fd2d-5756-4c91-983a-cb7362ea9465",
+    "mode": "Cash"
+  },
+  {
+    "amount": "9750",
+    "category": "Stationary",
+    "date": "2023-04-06T00:00",
+    "discription": "Bought office and writing supplies.",
+    "id": "b09976f4-dac1-4ffc-8733-f117d74277c9",
+    "mode": "Online"
+  },
+  {
+    "amount": "9037",
+    "category": "Investing",
+    "date": "2021-11-05T00:00",
+    "discription": "Allocated funds for investment opportunities.",
+    "id": "efafdd8f-5af8-4f33-9a87-adcb0d63797d",
+    "mode": "Cash"
+  },
+  {
+    "amount": "1557",
+    "category": "Housing",
+    "date": "2022-01-30T00:00",
+    "discription": "Paid rent or housing-related costs.",
+    "id": "872edd27-0158-4fec-830e-a374abbd0035",
+    "mode": "Cash"
+  },
+  {
+    "amount": "4223",
+    "category": "Travel",
+    "date": "2022-08-24T00:00",
+    "discription": "Expense for travel and transportation.",
+    "id": "209bb9cf-9a00-405d-8e48-06f4cfc66033",
+    "mode": "Online"
+  },
+  {
+    "amount": "1260",
+    "category": "Health Care",
+    "date": "2024-10-03T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "ebf3aa72-6a93-485e-8144-4aa28f9eb1bc",
+    "mode": "Cash"
+  },
+  {
+    "amount": "3740",
+    "category": "Groceries",
+    "date": "2021-01-17T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "73b7a04e-3234-4e56-b2a1-19e78f95fd61",
+    "mode": "Cash"
+  },
+  {
+    "amount": "2130",
+    "category": "Housing",
+    "date": "2024-03-08T00:00",
+    "discription": "Paid rent or housing-related costs.",
+    "id": "01f487aa-d28a-4bc8-9e60-cb88288ba6a1",
+    "mode": "Online"
+  },
+  {
+    "amount": "9170",
+    "category": "Stationary",
+    "date": "2021-11-09T00:00",
+    "discription": "Bought office and writing supplies.",
+    "id": "46f943c9-2ee7-469f-ba49-bddb1175379c",
+    "mode": "Cash"
+  },
+  {
+    "amount": "7096",
+    "category": "Insurance",
+    "date": "2024-05-08T00:00",
+    "discription": "Paid premium for insurance coverage.",
+    "id": "8a1b0420-cfdc-4ccc-bb93-e451d06889d6",
+    "mode": "Cash"
+  },
+  {
+    "amount": "7610",
+    "category": "Health Care",
+    "date": "2024-10-25T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "fde1b2fe-04e5-4987-bf0b-df2aa4bcbe8c",
+    "mode": "Online"
+  },
+  {
+    "amount": "4922",
+    "category": "Utilities",
+    "date": "2023-10-11T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "8d4608cf-acc0-45ba-a5d0-815e6a3f6722",
+    "mode": "Online"
+  },
+  {
+    "amount": "2028",
+    "category": "Investing",
+    "date": "2024-02-15T00:00",
+    "discription": "Allocated funds for investment opportunities.",
+    "id": "fd04a523-2589-4e3f-b6b0-5ada5f730adb",
+    "mode": "Online"
+  },
+  {
+    "amount": "6213",
+    "category": "Investing",
+    "date": "2024-06-09T00:00",
+    "discription": "Allocated funds for investment opportunities.",
+    "id": "62d79aaa-a81d-4844-8dcd-cc9c7fe1037a",
+    "mode": "Online"
+  },
+  {
+    "amount": "3184",
+    "category": "Stationary",
+    "date": "2025-02-20T00:00",
+    "discription": "Bought office and writing supplies.",
+    "id": "e9962dcc-6e9b-4dbd-9e5f-c17b475473ac",
+    "mode": "Online"
+  },
+  {
+    "amount": "4895",
+    "category": "Debt Payment",
+    "date": "2023-04-30T00:00",
+    "discription": "Made a payment toward existing debt.",
+    "id": "a47f5f6e-b16c-4cfe-910b-6e06784c974a",
+    "mode": "Cash"
+  },
+  {
+    "amount": "6949",
+    "category": "Housing",
+    "date": "2024-08-02T00:00",
+    "discription": "Paid rent or housing-related costs.",
+    "id": "d3e65ba3-8d0a-49fe-842a-7d899ee0e888",
+    "mode": "Online"
+  },
+  {
+    "amount": "5582",
+    "category": "Utilities",
+    "date": "2025-01-19T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "8c29aac1-6345-4736-adb1-5dcae00d0e35",
+    "mode": "Cash"
+  },
+  {
+    "amount": "6041",
+    "category": "Travel",
+    "date": "2023-11-24T00:00",
+    "discription": "Expense for travel and transportation.",
+    "id": "41a8df65-75fa-4956-978d-1cd3282d82e8",
+    "mode": "Cash"
+  },
+  {
+    "amount": "9962",
+    "category": "Insurance",
+    "date": "2024-12-04T00:00",
+    "discription": "Paid premium for insurance coverage.",
+    "id": "693789af-69a4-4390-ab99-a661bd0e1b27",
+    "mode": "Online"
+  },
+  {
+    "amount": "1587",
+    "category": "Utilities",
+    "date": "2024-07-01T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "c4280408-e152-4eb9-b290-a1b890c7f216",
+    "mode": "Cash"
+  },
+  {
+    "amount": "2013",
+    "category": "Debt Payment",
+    "date": "2021-11-12T00:00",
+    "discription": "Made a payment toward existing debt.",
+    "id": "bf7bad5b-3ed8-4863-bea4-063289698369",
+    "mode": "Online"
+  },
+  {
+    "amount": "3110",
+    "category": "Utilities",
+    "date": "2022-05-19T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "5e8865b7-c7e2-4b3f-b752-e2265ff70bce",
+    "mode": "Online"
+  },
+  {
+    "amount": "3488",
+    "category": "Utilities",
+    "date": "2022-09-29T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "d4a2fefa-8f6b-491b-bb2a-55492c794afb",
+    "mode": "Online"
+  },
+  {
+    "amount": "592",
+    "category": "Utilities",
+    "date": "2022-08-02T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "9e6653d6-767d-4de5-89b1-1dcaab388a10",
+    "mode": "Cash"
+  },
+  {
+    "amount": "3596",
+    "category": "Food",
+    "date": "2022-11-08T00:00",
+    "discription": "Spent on meals and dining.",
+    "id": "8ad41f78-1d32-4008-945c-c70332d2760d",
+    "mode": "Online"
+  },
+  {
+    "amount": "7114",
+    "category": "Groceries",
+    "date": "2023-03-22T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "47ef479d-2447-478b-955a-736400a2a11e",
+    "mode": "Online"
+  },
+  {
+    "amount": "598",
+    "category": "Groceries",
+    "date": "2022-11-29T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "26f7f84f-5c30-4a9f-8c28-25067755bc43",
+    "mode": "Online"
+  },
+  {
+    "amount": "2481",
+    "category": "Investing",
+    "date": "2021-04-26T00:00",
+    "discription": "Allocated funds for investment opportunities.",
+    "id": "2a138ed8-8a63-46dc-afb1-093d4494653a",
+    "mode": "Cash"
+  },
+  {
+    "amount": "5978",
+    "category": "Investing",
+    "date": "2023-02-18T00:00",
+    "discription": "Allocated funds for investment opportunities.",
+    "id": "ff57624b-5580-43ed-9388-8a758c761cdd",
+    "mode": "Cash"
+  },
+  {
+    "amount": "5046",
+    "category": "Utilities",
+    "date": "2022-10-22T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "31d2637b-9c8c-4db8-8bee-ab68bec28391",
+    "mode": "Cash"
+  },
+  {
+    "amount": "9960",
+    "category": "Travel",
+    "date": "2024-05-17T00:00",
+    "discription": "Expense for travel and transportation.",
+    "id": "db30e834-0479-44be-a410-4c8f64e526bf",
+    "mode": "Cash"
+  },
+  {
+    "amount": "2366",
+    "category": "Health Care",
+    "date": "2021-09-22T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "ec6959e6-3f24-4010-bae0-744dd1898517",
+    "mode": "Online"
+  },
+  {
+    "amount": "1157",
+    "category": "Food",
+    "date": "2022-03-08T00:00",
+    "discription": "Spent on meals and dining.",
+    "id": "e82d0674-696d-42f1-a3db-6d721ebafdb5",
+    "mode": "Online"
+  },
+  {
+    "amount": "3721",
+    "category": "Housing",
+    "date": "2024-01-30T00:00",
+    "discription": "Paid rent or housing-related costs.",
+    "id": "e5e1fca9-c28d-4100-a200-e2c0b5149189",
+    "mode": "Online"
+  },
+  {
+    "amount": "3116",
+    "category": "Debt Payment",
+    "date": "2025-01-13T00:00",
+    "discription": "Made a payment toward existing debt.",
+    "id": "3444529e-a255-42a4-84be-8e7839c1c885",
+    "mode": "Online"
+  },
+  {
+    "amount": "729",
+    "category": "Insurance",
+    "date": "2024-01-03T00:00",
+    "discription": "Paid premium for insurance coverage.",
+    "id": "98cb07d0-ec5b-4ba7-9759-ebb3bf48bf6d",
+    "mode": "Online"
+  },
+  {
+    "amount": "1188",
+    "category": "Debt Payment",
+    "date": "2024-07-24T00:00",
+    "discription": "Made a payment toward existing debt.",
+    "id": "4b69359e-ef62-4909-aa8b-84621a3b7061",
+    "mode": "Online"
+  },
+  {
+    "amount": "3923",
+    "category": "Health Care",
+    "date": "2024-02-20T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "db2e0842-ae45-4bb9-9a21-78b26de36640",
+    "mode": "Online"
+  },
+  {
+    "amount": "3010",
+    "category": "Insurance",
+    "date": "2023-10-20T00:00",
+    "discription": "Paid premium for insurance coverage.",
+    "id": "57e82b0c-44d6-4669-a104-052e8f3c3888",
+    "mode": "Online"
+  },
+  {
+    "amount": "7832",
+    "category": "Insurance",
+    "date": "2021-03-06T00:00",
+    "discription": "Paid premium for insurance coverage.",
+    "id": "536cad8f-e8a0-4b29-a31e-497eb47fa2c9",
+    "mode": "Online"
+  },
+  {
+    "amount": "5953",
+    "category": "Stationary",
+    "date": "2024-07-31T00:00",
+    "discription": "Bought office and writing supplies.",
+    "id": "9ee3532e-5d5e-4a1d-815d-031bc2534ee9",
+    "mode": "Cash"
+  },
+  {
+    "amount": "6391",
+    "category": "Debt Payment",
+    "date": "2022-03-09T00:00",
+    "discription": "Made a payment toward existing debt.",
+    "id": "23f6add3-fa69-4fb2-ace6-bcbb58989290",
+    "mode": "Online"
+  },
+  {
+    "amount": "6320",
+    "category": "Debt Payment",
+    "date": "2023-12-01T00:00",
+    "discription": "Made a payment toward existing debt.",
+    "id": "6f6f8f58-6677-482a-b4e4-24f4edea0b07",
+    "mode": "Cash"
+  },
+  {
+    "amount": "8794",
+    "category": "Travel",
+    "date": "2023-07-22T00:00",
+    "discription": "Expense for travel and transportation.",
+    "id": "34fdf159-1293-4873-91cb-cb301c88d439",
+    "mode": "Online"
+  },
+  {
+    "amount": "2593",
+    "category": "Stationary",
+    "date": "2025-01-17T00:00",
+    "discription": "Bought office and writing supplies.",
+    "id": "661e6689-bc44-47f5-ac55-830636e6bcb1",
+    "mode": "Cash"
+  },
+  {
+    "amount": "6658",
+    "category": "Stationary",
+    "date": "2025-01-03T00:00",
+    "discription": "Bought office and writing supplies.",
+    "id": "d67bbe01-0233-4e42-aec4-f363ef2e0ee6",
+    "mode": "Online"
+  },
+  {
+    "amount": "8371",
+    "category": "Travel",
+    "date": "2024-05-24T00:00",
+    "discription": "Expense for travel and transportation.",
+    "id": "a1bd2ade-300e-4534-82e3-8147cee96915",
+    "mode": "Cash"
+  },
+  {
+    "amount": "5936",
+    "category": "Health Care",
+    "date": "2022-06-11T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "c1602143-e167-41a4-acf2-7559c4e3d3ea",
+    "mode": "Cash"
+  },
+  {
+    "amount": "8068",
+    "category": "Groceries",
+    "date": "2023-10-28T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "5f96c58d-cd1b-42be-bbf0-5356897fe620",
+    "mode": "Cash"
+  },
+  {
+    "amount": "317",
+    "category": "Travel",
+    "date": "2025-02-20T00:00",
+    "discription": "Expense for travel and transportation.",
+    "id": "cc5c677d-1d41-411e-b7ee-4a6f9e15b726",
+    "mode": "Online"
+  },
+  {
+    "amount": "4708",
+    "category": "Utilities",
+    "date": "2025-01-27T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "c5a82e48-7d7e-4225-a9d5-f752430ee8ca",
+    "mode": "Online"
+  },
+  {
+    "amount": "1224",
+    "category": "Health Care",
+    "date": "2023-10-09T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "3585b8c0-24c6-4f5a-9335-2bd6361a5f46",
+    "mode": "Online"
+  },
+  {
+    "amount": "9446",
+    "category": "Debt Payment",
+    "date": "2021-10-19T00:00",
+    "discription": "Made a payment toward existing debt.",
+    "id": "f035917a-e0bd-4a72-abef-d0123b6de178",
+    "mode": "Online"
+  },
+  {
+    "amount": "1364",
+    "category": "Food",
+    "date": "2022-10-14T00:00",
+    "discription": "Spent on meals and dining.",
+    "id": "304db94f-de08-4a86-97f6-9d79f2e56750",
+    "mode": "Cash"
+  },
+  {
+    "amount": "6384",
+    "category": "Groceries",
+    "date": "2024-06-27T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "113b3d72-f0ce-410c-818a-188ffe2ba20b",
+    "mode": "Cash"
+  },
+  {
+    "amount": "3278",
+    "category": "Travel",
+    "date": "2023-02-01T00:00",
+    "discription": "Expense for travel and transportation.",
+    "id": "1803b0f3-1117-4494-abfb-b81dfeb753a4",
+    "mode": "Cash"
+  },
+  {
+    "amount": "7897",
+    "category": "Investing",
+    "date": "2021-01-16T00:00",
+    "discription": "Allocated funds for investment opportunities.",
+    "id": "25d5fe42-1450-46ef-8aba-56fbbd3824e8",
+    "mode": "Cash"
+  },
+  {
+    "amount": "6579",
+    "category": "Health Care",
+    "date": "2024-06-02T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "2a135303-751e-4c74-93d5-4786454f7ec2",
+    "mode": "Cash"
+  },
+  {
+    "amount": "9521",
+    "category": "Travel",
+    "date": "2021-12-25T00:00",
+    "discription": "Expense for travel and transportation.",
+    "id": "d21d4269-e3a0-44cd-83fb-e948384ea325",
+    "mode": "Online"
+  },
+  {
+    "amount": "4631",
+    "category": "Groceries",
+    "date": "2021-08-09T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "e3248f43-7f59-4079-bcaf-33211547b4af",
+    "mode": "Online"
+  },
+  {
+    "amount": "320",
+    "category": "Food",
+    "date": "2021-07-03T00:00",
+    "discription": "Spent on meals and dining.",
+    "id": "005c3e99-588f-4eba-a57c-6252779095f6",
+    "mode": "Cash"
+  },
+  {
+    "amount": "8410",
+    "category": "Travel",
+    "date": "2024-06-27T00:00",
+    "discription": "Expense for travel and transportation.",
+    "id": "0e8f7587-f993-41f6-928d-96ead1e01c7d",
+    "mode": "Online"
+  },
+  {
+    "amount": "7024",
+    "category": "Utilities",
+    "date": "2021-10-12T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "bbb66f23-8512-4e91-873b-d5c2aa7a3b2b",
+    "mode": "Online"
+  },
+  {
+    "amount": "5606",
+    "category": "Housing",
+    "date": "2021-07-11T00:00",
+    "discription": "Paid rent or housing-related costs.",
+    "id": "bc18d270-e085-40ef-a3fc-129713c4a107",
+    "mode": "Cash"
+  },
+  {
+    "amount": "1316",
+    "category": "Debt Payment",
+    "date": "2023-08-20T00:00",
+    "discription": "Made a payment toward existing debt.",
+    "id": "7241a094-f2ef-4b9c-ad3e-c480cbb4f875",
+    "mode": "Cash"
+  },
+  {
+    "amount": "7076",
+    "category": "Housing",
+    "date": "2024-08-26T00:00",
+    "discription": "Paid rent or housing-related costs.",
+    "id": "5317f5d0-dfab-4287-8804-621a48ed0af2",
+    "mode": "Cash"
+  },
+  {
+    "amount": "1395",
+    "category": "Utilities",
+    "date": "2023-01-14T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "90fc915d-2766-4134-9a2a-875a5e436c75",
+    "mode": "Online"
+  },
+  {
+    "amount": "7007",
+    "category": "Utilities",
+    "date": "2024-12-11T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "96ab33fb-0bea-4f5c-9694-557bf093eb06",
+    "mode": "Online"
+  },
+  {
+    "amount": "8671",
+    "category": "Travel",
+    "date": "2023-05-20T00:00",
+    "discription": "Expense for travel and transportation.",
+    "id": "efc55d96-c36f-466b-9514-6c3cc53a3503",
+    "mode": "Cash"
+  },
+  {
+    "amount": "266",
+    "category": "Investing",
+    "date": "2024-03-03T00:00",
+    "discription": "Allocated funds for investment opportunities.",
+    "id": "502a0e8f-5dc5-4d0d-afdd-403a4208d704",
+    "mode": "Cash"
+  },
+  {
+    "amount": "7784",
+    "category": "Investing",
+    "date": "2022-12-24T00:00",
+    "discription": "Allocated funds for investment opportunities.",
+    "id": "22d8c739-9768-4e6c-a276-db4e242cfa1a",
+    "mode": "Cash"
+  },
+  {
+    "amount": "5245",
+    "category": "Utilities",
+    "date": "2021-01-21T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "aaebcd59-d9a9-4bcf-a254-550726f48b34",
+    "mode": "Online"
+  },
+  {
+    "amount": "4257",
+    "category": "Groceries",
+    "date": "2024-06-12T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "de0e017b-7a5f-45fa-9848-b79d6b731f36",
+    "mode": "Online"
+  },
+  {
+    "amount": "1545",
+    "category": "Investing",
+    "date": "2022-05-27T00:00",
+    "discription": "Allocated funds for investment opportunities.",
+    "id": "a799a71d-09f3-4961-9e77-cd0fa3c38dd3",
+    "mode": "Cash"
+  },
+  {
+    "amount": "660",
+    "category": "Health Care",
+    "date": "2022-03-28T00:00",
+    "discription": "Spent on medical or health care needs.",
+    "id": "f3485c6c-41cd-4136-9db9-ceb67caf714a",
+    "mode": "Cash"
+  },
+  {
+    "amount": "922",
+    "category": "Groceries",
+    "date": "2022-05-17T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "fe55bd1c-5033-48c8-8a05-725dae288139",
+    "mode": "Cash"
+  },
+  {
+    "amount": "5997",
+    "category": "Insurance",
+    "date": "2025-01-08T00:00",
+    "discription": "Paid premium for insurance coverage.",
+    "id": "81aca5af-7f3f-404a-8b31-484ea732a2d6",
+    "mode": "Online"
+  },
+  {
+    "amount": "5616",
+    "category": "Stationary",
+    "date": "2022-02-18T00:00",
+    "discription": "Bought office and writing supplies.",
+    "id": "a772c740-67a0-4e52-9d2a-6e45e7a27338",
+    "mode": "Online"
+  },
+  {
+    "amount": "6665",
+    "category": "Debt Payment",
+    "date": "2024-08-01T00:00",
+    "discription": "Made a payment toward existing debt.",
+    "id": "34558e22-be2f-4bd6-aed6-db9a6d817339",
+    "mode": "Online"
+  },
+  {
+    "amount": "9997",
+    "category": "Groceries",
+    "date": "2024-02-21T00:00",
+    "discription": "Purchased essential groceries for the week.",
+    "id": "78bae634-4bcb-445d-91c7-ba13c585eb30",
+    "mode": "Cash"
+  },
+  {
+    "amount": "2125",
+    "category": "Utilities",
+    "date": "2024-06-14T00:00",
+    "discription": "Paid monthly utility bills.",
+    "id": "a59cd034-c449-443e-8a2e-d11deb4cb856",
+    "mode": "Online"
+  },
+  {
+    "amount": "5680",
+    "category": "Stationary",
+    "date": "2021-12-21T00:00",
+    "discription": "Bought office and writing supplies.",
+    "id": "cba21cd5-7498-4be4-8e9c-734850d2115e",
+    "mode": "Cash"
+  },
+  {
+    "amount": "1347",
+    "category": "Housing",
+    "date": "2023-09-30T00:00",
+    "discription": "Paid rent or housing-related costs.",
+    "id": "df6937ed-5603-4d40-b056-5a747808dfdc",
+    "mode": "Online"
+  },
+  {
+    "amount": "8278",
+    "category": "Food",
+    "date": "2024-06-03T00:00",
+    "discription": "Spent on meals and dining.",
+    "id": "44ae6f8a-b128-40f0-a8d5-7416500ae433",
+    "mode": "Cash"
+  }
+]
