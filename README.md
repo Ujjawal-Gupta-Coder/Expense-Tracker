@@ -10,6 +10,20 @@
 
 Managing expenses effectively is crucial for financial stability, and our Expense Tracker simplifies this process with an intuitive and user-friendly interface. This application allows users to add, update, delete, and categorize expenses, making it easy to track spending habits. With features like dynamic filtering, interactive visualizations, and an in-app guided tour, managing your finances has never been more convenient. Whether you're keeping track of daily expenses or analyzing spending patterns over time, this expense tracker provides all the essential tools for better financial decision-making.
 
+## 🚀 Jumpstart Your Analytics with Dummy Data!
+
+Our expense tracker comes with a powerful analytics feature — but it shines best when there’s enough data to crunch! 🎯
+
+If you're just getting started and your dashboard looks a little too empty, no worries — we’ve got you covered. A **dummyData.json file** is available right here in the repository.
+
+👉 **To get a fully functional experience:**
+
+1. Open the JSON file.
+2. Copy the entire content.
+3. Paste it into your browser’s **Local Storage** under the key: **expenseData**
+
+Boom! 💥 Your dashboard will light up with charts, summaries, and insights — just like it’s been used for years!
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🛠️ [What Problem Does This Solve?](#ProblemSolved)
