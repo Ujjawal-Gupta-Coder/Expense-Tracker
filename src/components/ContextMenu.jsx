@@ -1,10 +1,9 @@
-import React, { useContext } from 'react'
 import Swal from 'sweetalert2'
-import { expenseDataContext } from '../contexts/expenseDatacontext';
 import { useLocalStorage } from 'react-use';
+import store from '../store';
 
 const ContextMenu = ({contextMenuPosition, setContextMenuPosition, setShowPopUpForm, setTargetedExpense}) => {
-  const [expenseData, setExpenseData] = useContext(expenseDataContext);
+  const { expenseData, setExpenseData } = store();
   const [expenseDataStorage, setExpenseDataStorage] = useLocalStorage('expenseData');
 
   const contextMenuStyle = {

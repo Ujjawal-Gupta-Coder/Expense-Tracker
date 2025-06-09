@@ -14,15 +14,13 @@ Managing expenses effectively is crucial for financial stability, and our Expens
 
 Our expense tracker comes with a powerful analytics feature — but it shines best when there’s enough data to crunch! 🎯
 
-If you're just getting started and your dashboard looks a little too empty, no worries — we’ve got you covered. A **dummyData.json file** is available right here in the repository.
+To make things easier in this upgraded version, we’ve added a **Try Demo** button right at the center of the navbar.
 
-👉 **To get a fully functional experience:**
+### 👉 How it works:
 
-1. Open the JSON file.
-2. Copy the entire content.
-3. Paste it into your browser’s **Local Storage** under the key: **expenseData**
+Click on the **Try Demo** button and the app will instantly fill with realistic sample data — no setup, no local storage steps required!
 
-Boom! 💥 Your dashboard will light up with charts, summaries, and insights — just like it’s been used for years!
+Boom! 💥 Your dashboard will light up with charts and insights — just like it’s been used for years!
 
 ## 📋 <a name="table">Table of Contents</a>
 

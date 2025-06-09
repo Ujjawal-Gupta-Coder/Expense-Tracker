@@ -1198,5 +1198,405 @@
     "discription": "Spent on meals and dining.",
     "id": "44ae6f8a-b128-40f0-a8d5-7416500ae433",
     "mode": "Cash"
+  },
+  {
+    "amount": "3654",
+    "category": "Groceries",
+    "date": "2025-03-01T00:00",
+    "discription": "Stocked up pantry with grains and snacks.",
+    "id": "c75b82e6-71d6-4282-b3f9-3df1027ea3ca",
+    "mode": "Cash"
+  },
+  {
+    "amount": "3807",
+    "category": "Groceries",
+    "date": "2025-06-19T00:00",
+    "discription": "Bought fresh vegetables and fruits.",
+    "id": "c254de7f-9126-462d-a294-fec018c9e207",
+    "mode": "Online"
+  },
+  {
+    "amount": "1680",
+    "category": "Insurance",
+    "date": "2025-03-27T00:00",
+    "discription": "Paid term life insurance premium.",
+    "id": "e806e8a9-e15e-4c8f-9f0f-491b908e1012",
+    "mode": "Cash"
+  },
+  {
+    "amount": "2507",
+    "category": "Insurance",
+    "date": "2025-04-08T00:00",
+    "discription": "Contributed to vehicle insurance plan.",
+    "id": "b371cc19-c4b3-4e68-986c-2e8cdc18ebd3",
+    "mode": "Online"
+  },
+  {
+    "amount": "8204",
+    "category": "Insurance",
+    "date": "2025-12-30T00:00",
+    "discription": "Renewed health insurance policy.",
+    "id": "f03e10cd-1a69-4e3b-a16c-e189108ed709",
+    "mode": "Online"
+  },
+  {
+    "amount": "6344",
+    "category": "Groceries",
+    "date": "2025-07-28T00:00",
+    "discription": "Bought fresh vegetables and fruits.",
+    "id": "3d99ef14-8bb8-41a0-8619-ed22c88a8acf",
+    "mode": "Online"
+  },
+  {
+    "amount": "6377",
+    "category": "Stationary",
+    "date": "2025-11-27T00:00",
+    "discription": "Replenished supplies for study and work.",
+    "id": "a411bd76-c3c0-4dab-a450-6cac98916fcb",
+    "mode": "Cash"
+  },
+  {
+    "amount": "827",
+    "category": "Travel",
+    "date": "2025-03-19T00:00",
+    "discription": "Booked cab and metro passes.",
+    "id": "1bb07eeb-8712-4e8a-84c7-f52089206dc4",
+    "mode": "Cash"
+  },
+  {
+    "amount": "1325",
+    "category": "Insurance",
+    "date": "2025-05-30T00:00",
+    "discription": "Renewed health insurance policy.",
+    "id": "d9b8670b-ed50-4c31-9edb-4f17d14980bb",
+    "mode": "Cash"
+  },
+  {
+    "amount": "9392",
+    "category": "Utilities",
+    "date": "2025-12-02T00:00",
+    "discription": "Cleared monthly household utility expenses.",
+    "id": "59d362f3-de9b-4eb3-a152-a292eb4f50c6",
+    "mode": "Online"
+  },
+  {
+    "amount": "5701",
+    "category": "Health Care",
+    "date": "2025-07-14T00:00",
+    "discription": "Paid diagnostic lab test charges.",
+    "id": "4c0f3a0a-5a5f-4408-a497-d6a0803156da",
+    "mode": "Cash"
+  },
+  {
+    "amount": "1340",
+    "category": "Utilities",
+    "date": "2025-04-28T00:00",
+    "discription": "Paid electricity and water bills.",
+    "id": "f88cc5f4-06ef-4e47-acd8-8d3ec39446a7",
+    "mode": "Online"
+  },
+  {
+    "amount": "607",
+    "category": "Groceries",
+    "date": "2025-07-10T00:00",
+    "discription": "Stocked up pantry with grains and snacks.",
+    "id": "d5e950ed-7e26-4cd9-92cd-9ba1b939db22",
+    "mode": "Online"
+  },
+  {
+    "amount": "2118",
+    "category": "Debt Payment",
+    "date": "2025-10-31T00:00",
+    "discription": "Reduced personal loan outstanding.",
+    "id": "a552c8e3-9c42-4dfb-a7fc-3b17f04d1b10",
+    "mode": "Cash"
+  },
+  {
+    "amount": "5101",
+    "category": "Groceries",
+    "date": "2025-01-26T00:00",
+    "discription": "Stocked up pantry with grains and snacks.",
+    "id": "fc06b01b-6ccb-49da-a469-244357cb1670",
+    "mode": "Cash"
+  },
+  {
+    "amount": "9603",
+    "category": "Housing",
+    "date": "2025-12-05T00:00",
+    "discription": "Paid housing society maintenance fees.",
+    "id": "cb3a4a58-8296-4001-b8d4-d2b866e43e34",
+    "mode": "Cash"
+  },
+  {
+    "amount": "6025",
+    "category": "Food",
+    "date": "2025-02-28T00:00",
+    "discription": "Ate lunch and coffee at cafe.",
+    "id": "b94533da-ca1f-4de9-ae0c-a307e5bcd8f5",
+    "mode": "Cash"
+  },
+  {
+    "amount": "4276",
+    "category": "Travel",
+    "date": "2025-01-06T00:00",
+    "discription": "Travel fare for intercity journey.",
+    "id": "940af255-855a-419b-a197-25f968333d38",
+    "mode": "Online"
+  },
+  {
+    "amount": "4518",
+    "category": "Investing",
+    "date": "2025-05-31T00:00",
+    "discription": "Invested in stocks for portfolio growth.",
+    "id": "a6ff6d76-8a08-4ec1-b236-e28d4b64d44d",
+    "mode": "Cash"
+  },
+  {
+    "amount": "8670",
+    "category": "Investing",
+    "date": "2025-08-01T00:00",
+    "discription": "Diversified savings into equity assets.",
+    "id": "c0df796f-72cf-448a-9daf-a868661657e2",
+    "mode": "Online"
+  },
+  {
+    "amount": "8807",
+    "category": "Health Care",
+    "date": "2025-10-30T00:00",
+    "discription": "Paid diagnostic lab test charges.",
+    "id": "93e42bd3-359a-4ec6-8c27-f014fe512ba9",
+    "mode": "Online"
+  },
+  {
+    "amount": "6631",
+    "category": "Housing",
+    "date": "2025-03-30T00:00",
+    "discription": "Paid housing society maintenance fees.",
+    "id": "4ea43435-0a40-4f38-aa54-1c923747519d",
+    "mode": "Online"
+  },
+  {
+    "amount": "7930",
+    "category": "Housing",
+    "date": "2025-06-05T00:00",
+    "discription": "Transferred monthly apartment rent.",
+    "id": "62c35e58-28ca-40b6-b906-29f07c389672",
+    "mode": "Online"
+  },
+  {
+    "amount": "2662",
+    "category": "Health Care",
+    "date": "2025-11-07T00:00",
+    "discription": "Underwent routine health checkup.",
+    "id": "823bf8a4-115d-4daf-bb49-a738fde3bd69",
+    "mode": "Online"
+  },
+  {
+    "amount": "5206",
+    "category": "Food",
+    "date": "2025-10-10T00:00",
+    "discription": "Ordered food online with discounts.",
+    "id": "aab8ccf3-a354-4fcd-8491-5ce054f9b688",
+    "mode": "Online"
+  },
+  {
+    "amount": "1487",
+    "category": "Health Care",
+    "date": "2025-05-06T00:00",
+    "discription": "Paid diagnostic lab test charges.",
+    "id": "b8f14ae3-e942-48c9-8bf1-237f92813a6b",
+    "mode": "Online"
+  },
+  {
+    "amount": "9458",
+    "category": "Stationary",
+    "date": "2025-11-02T00:00",
+    "discription": "Replenished supplies for study and work.",
+    "id": "d316259e-47ac-4fc6-8a73-25f266b9b7b3",
+    "mode": "Cash"
+  },
+  {
+    "amount": "9523",
+    "category": "Utilities",
+    "date": "2025-07-31T00:00",
+    "discription": "Settled broadband and gas service charges.",
+    "id": "f342797a-9a8f-44e1-9c7f-c9a4067ddef9",
+    "mode": "Cash"
+  },
+  {
+    "amount": "3351",
+    "category": "Utilities",
+    "date": "2025-05-21T00:00",
+    "discription": "Settled broadband and gas service charges.",
+    "id": "7c3403a5-9c0f-4e95-b196-912e05e41758",
+    "mode": "Online"
+  },
+  {
+    "amount": "6750",
+    "category": "Stationary",
+    "date": "2025-06-14T00:00",
+    "discription": "Bought pens, files, and printing paper.",
+    "id": "683042f6-2756-4d78-b973-b097696a8262",
+    "mode": "Cash"
+  },
+  {
+    "amount": "903",
+    "category": "Health Care",
+    "date": "2025-11-21T00:00",
+    "discription": "Paid diagnostic lab test charges.",
+    "id": "b2386cfe-2a18-47fc-909c-f2359b28b353",
+    "mode": "Online"
+  },
+  {
+    "amount": "5253",
+    "category": "Debt Payment",
+    "date": "2025-09-21T00:00",
+    "discription": "Reduced personal loan outstanding.",
+    "id": "6dfe8cbf-5e35-4f90-8933-4f3ad025e48a",
+    "mode": "Online"
+  },
+  {
+    "amount": "8187",
+    "category": "Health Care",
+    "date": "2025-06-15T00:00",
+    "discription": "Consulted doctor and bought medicines.",
+    "id": "023887ae-87bd-431b-a6dd-2478f4fe85c4",
+    "mode": "Cash"
+  },
+  {
+    "amount": "3576",
+    "category": "Investing",
+    "date": "2025-03-10T00:00",
+    "discription": "Invested in stocks for portfolio growth.",
+    "id": "acb6aefc-6a25-48d2-b762-53ea12dbdbd4",
+    "mode": "Cash"
+  },
+  {
+    "amount": "3976",
+    "category": "Travel",
+    "date": "2025-11-28T00:00",
+    "discription": "Covered expenses for short weekend trip.",
+    "id": "01740993-a977-495e-816b-fc6edb82f5ba",
+    "mode": "Online"
+  },
+  {
+    "amount": "6041",
+    "category": "Health Care",
+    "date": "2025-07-16T00:00",
+    "discription": "Consulted doctor and bought medicines.",
+    "id": "d8fb5fab-9c56-45e6-ba7c-032b3adddb63",
+    "mode": "Cash"
+  },
+  {
+    "amount": "9534",
+    "category": "Stationary",
+    "date": "2025-05-11T00:00",
+    "discription": "Replenished supplies for study and work.",
+    "id": "e3cda740-6f8b-495b-8591-0bd008b1d695",
+    "mode": "Cash"
+  },
+  {
+    "amount": "4884",
+    "category": "Insurance",
+    "date": "2025-11-10T00:00",
+    "discription": "Renewed health insurance policy.",
+    "id": "8d7874d0-b5dc-4f8a-9bae-2135b2180940",
+    "mode": "Cash"
+  },
+  {
+    "amount": "731",
+    "category": "Food",
+    "date": "2025-09-04T00:00",
+    "discription": "Dined out at favorite restaurant.",
+    "id": "e0825193-c567-48dc-92b4-a09aa2266928",
+    "mode": "Cash"
+  },
+  {
+    "amount": "6530",
+    "category": "Debt Payment",
+    "date": "2025-04-20T00:00",
+    "discription": "Paid monthly EMI for credit card.",
+    "id": "481efca3-55a9-4c19-b398-47bec829b3c8",
+    "mode": "Cash"
+  },
+  {
+    "amount": "9154",
+    "category": "Stationary",
+    "date": "2025-03-20T00:00",
+    "discription": "Replenished supplies for study and work.",
+    "id": "7f09c6c3-7278-4b6e-ab94-d606985c5e8f",
+    "mode": "Online"
+  },
+  {
+    "amount": "9116",
+    "category": "Travel",
+    "date": "2025-11-14T00:00",
+    "discription": "Travel fare for intercity journey.",
+    "id": "dbdbe9fe-55cb-443c-b079-f5fdf3857bc8",
+    "mode": "Online"
+  },
+  {
+    "amount": "3331",
+    "category": "Housing",
+    "date": "2025-08-26T00:00",
+    "discription": "Paid housing society maintenance fees.",
+    "id": "afa28853-c601-44d1-95af-c6f734d90d6f",
+    "mode": "Online"
+  },
+  {
+    "amount": "9530",
+    "category": "Stationary",
+    "date": "2025-05-02T00:00",
+    "discription": "Bought pens, files, and printing paper.",
+    "id": "cdfbc10f-8cb1-4d83-98f1-28b0247b65e1",
+    "mode": "Online"
+  },
+  {
+    "amount": "2762",
+    "category": "Groceries",
+    "date": "2025-05-28T00:00",
+    "discription": "Bought fresh vegetables and fruits.",
+    "id": "177b3a35-e594-4a8d-bcca-59cfcf33bcbd",
+    "mode": "Cash"
+  },
+  {
+    "amount": "5844",
+    "category": "Food",
+    "date": "2025-03-26T00:00",
+    "discription": "Dined out at favorite restaurant.",
+    "id": "569737ea-d318-41e2-9917-508fa11bdf55",
+    "mode": "Cash"
+  },
+  {
+    "amount": "5354",
+    "category": "Utilities",
+    "date": "2025-02-23T00:00",
+    "discription": "Settled broadband and gas service charges.",
+    "id": "bad89238-bd62-4af6-b782-42b264210550",
+    "mode": "Online"
+  },
+  {
+    "amount": "1530",
+    "category": "Stationary",
+    "date": "2025-11-24T00:00",
+    "discription": "Replenished supplies for study and work.",
+    "id": "fd12ca13-f15f-4487-8db2-7fdb98ef4fd5",
+    "mode": "Cash"
+  },
+  {
+    "amount": "9477",
+    "category": "Insurance",
+    "date": "2025-05-13T00:00",
+    "discription": "Paid term life insurance premium.",
+    "id": "fa3147ae-9b2a-4157-b655-96dfea528eba",
+    "mode": "Cash"
+  },
+  {
+    "amount": "2467",
+    "category": "Stationary",
+    "date": "2025-05-11T00:00",
+    "discription": "Purchased notebooks and office stationery.",
+    "id": "bae332bc-ab86-4336-9ebe-90d9578e17e7",
+    "mode": "Online"
   }
 ]

@@ -1,8 +1,6 @@
 import React from 'react'
 const HistoryItem = ({category, discription, amount, mode, date,id, setContextMenuPosition}) => {
   
-  
-
    const handleContextMenu = (dets) => {
     dets.preventDefault();
     setContextMenuPosition({

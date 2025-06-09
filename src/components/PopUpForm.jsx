@@ -1,18 +1,16 @@
 import React, { useContext} from "react";
-import {expenseCategories} from "../../helper.js";
+import {expenseCategories} from "../helper.js";
 import { useForm } from "react-hook-form";
 import Swal from 'sweetalert2'
-import { expenseDataContext } from "../contexts/expenseDatacontext.jsx";
 import { useLocalStorage } from "react-use";
-
-
+import store from "../store.js";
 
 
 const PopUpForm = ({maxDiscriptionLimit, setShowPopUpForm, targetCategory,  targetDiscription, targetAmount, targetMode, targetDate, targetId}) => {
     const maxlenghtForDiscription = maxDiscriptionLimit; 
     const onlineMode = targetMode === 'Online' ? true : false;
     const cashMode = targetMode === 'Cash' ? true : false;
-    const [expenseData, setExpenseData] = useContext(expenseDataContext);
+    const {expenseData, setExpenseData} = store();
     const [expenseDataStorage, setExpenseDataStorage] = useLocalStorage('expenseData');
     const {
       register,

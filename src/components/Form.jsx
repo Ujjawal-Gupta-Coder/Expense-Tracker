@@ -1,14 +1,14 @@
 import React, { useContext } from "react";
-import { expenseCategories } from "../../helper.js";
+import { expenseCategories } from "../helper.js";
 import { useForm } from "react-hook-form";
-import { expenseDataContext } from "../contexts/expenseDatacontext.jsx";
 import Swal from "sweetalert2";
 import { useLocalStorage } from "react-use";
 import { v4 as uuidv4 } from "uuid";
+import store from "../store.js";
 
 const Form = ({ maxDiscriptionLimit }) => {
   const maxlenghtForDiscription = maxDiscriptionLimit;
-  const [expenseData, setExpenseData] = useContext(expenseDataContext);
+  const {expenseData, setExpenseData} = store();
   const [expenseDataStorage, setExpenseDataStorage] = useLocalStorage("expenseData");
 
   const {

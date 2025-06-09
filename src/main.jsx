@@ -1,7 +1,5 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import { ShowPopUpFormProvider } from './contexts/showPopUpFormContext.jsx'
-import { ExpenseDataProvider } from './contexts/expenseDatacontext.jsx'
 import App from './App.jsx'
 import './index.css'
 
@@ -47,10 +45,6 @@ const router = createBrowserRouter([
 ]);
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <ExpenseDataProvider>
-    <ShowPopUpFormProvider>
         <RouterProvider router={router} />
-    </ShowPopUpFormProvider>
-    </ExpenseDataProvider>
   </StrictMode>,
 )

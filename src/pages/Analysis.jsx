@@ -1,17 +1,16 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import BarChart from "../components/BarChart";
-import { expenseCategories, months } from "../../helper";
-import { expenseDataContext } from "../contexts/expenseDatacontext";
+import { expenseCategories, months } from "../helper.js";
 import Heading from "../components/Heading";
 import DoughnutChart from "../components/DoughnutChart";
 import UserGuide from "../components/UserGuide";
 import Joyride from "react-joyride";
+import store from "../store";
 
 const Analysis = () => {
   const [selectedYear, setSelectedYear] = useState(new Date().getFullYear());
-  const [selectedMonth, setselectedMonth] = useState(new Date().getMonth());
-
-  const [expenseData] = useContext(expenseDataContext);
+  const [selectedMonth, setselectedMonth] = useState(12);
+  const {expenseData} = store();
   let categoryToIndexMap = {};
   let dateList = [
     "Day 1", "Day 2", "Day 3", "Day 4", "Day 5", "Day 6", "Day 7", "Day 8", "Day 9", "Day 10",
@@ -74,7 +73,7 @@ const Analysis = () => {
     setPerYearCategoryWiseAmount(newCategoryWiseAmount);
     setPerYearPaymentModeWiseAmount(newPaymentModeWiseAmount);
     setDateWiseMonthAmount(newDateMonthAmount);
-  }, [selectedYear, selectedMonth]);
+  }, [selectedYear, selectedMonth, expenseData]);
 
   const [runTour, setRunTour] = useState(localStorage.getItem("AnalyticsTourCompleted") !== "true");
   const steps = [

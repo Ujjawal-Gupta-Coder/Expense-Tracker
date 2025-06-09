@@ -1,6 +1,6 @@
-import React, { useContext, useEffect } from "react";
-import { expenseCategories } from "../../helper";
-import { expenseDataContext } from "../contexts/expenseDatacontext";
+import React, { useEffect } from "react";
+import { expenseCategories } from "../helper.js";
+import store from "../store";
 
 const FilterPanel = ({
   setFilteredExpenseData,
@@ -13,7 +13,7 @@ const FilterPanel = ({
   dateApplySort,
   setDateApplySort,
 }) => {
-  const [expenseData] = useContext(expenseDataContext);
+  const {expenseData} = store();
 
   const handleCategoryFilter = (event) => {
     setCategoryApplyFilter(event.target.value);

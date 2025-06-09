@@ -16,4 +16,9 @@ const months = [
   "July", "August", "September", "October", "November", "December"
 ];
 
-export { expenseCategories, months };
+const initialExpenseDataValue = () => {
+   const data = localStorage.getItem('expenseData');
+   return data ? JSON.parse(data) : [];
+}
+
+export { expenseCategories, months, initialExpenseDataValue};

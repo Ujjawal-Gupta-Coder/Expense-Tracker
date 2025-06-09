@@ -1,18 +1,17 @@
-import React, { useContext, useState } from "react";
+import React, { useState } from "react";
 import HistoryItem from "../components/HistoryItem";
-import { expenseDataContext } from "../contexts/expenseDatacontext";
 import Heading from "../components/Heading";
-import { showPopUpFormContext } from "../contexts/showPopUpFormContext.jsx";
 import FilterPanel from "../components/FilterPanel";
 import TotalExpense from "../components/TotalExpense";
 import ContextMenu from "../components/ContextMenu";
 import PopUpForm from "../components/PopUpForm";
 import UserGuide from "../components/UserGuide.jsx";
 import Joyride from "react-joyride";
+import store from "../store.js";
 
 const History = () => {
-  const [expenseData] = useContext(expenseDataContext);
-  const [showPopUpForm, setShowPopUpForm] = useContext(showPopUpFormContext);
+  const {expenseData} = store();
+  const {showPopUpForm, setShowPopUpForm} = store();
 
   const [targetedExpense, setTargetedExpense] = useState({});
   const [contextMenuPosition, setContextMenuPosition] = useState({toShow : false, xPos : 0, yPos : 0, id : null });
