@@ -6,7 +6,7 @@
 # [Expense Tracker](https://expense-tracker-mu-sage.vercel.app/)
 </div>
 
-🌟 Experience the full functionality of this Expense Tracker Application by exploring the [Live Demo](https://expense-tracker-mu-sage.vercel.app/). Click the link to see it in action and enjoy!
+🌟 Experience the full functionality of this Expense Tracker Application by exploring the [Live Demo](https://expense-tracker-mu-sage.vercel.app/). Click the link to see it in action and enjoy!🎥 You can also watch the detailed Video Demo on [YouTube](https://youtu.be/HVAZ6ArPY-8?si=uz1H65WOas-N35hm) for a visual walkthrough.
 
 Managing expenses effectively is crucial for financial stability, and our Expense Tracker simplifies this process with an intuitive and user-friendly interface. This application allows users to add, update, delete, and categorize expenses, making it easy to track spending habits. With features like dynamic filtering, interactive visualizations, and an in-app guided tour, managing your finances has never been more convenient. Whether you're keeping track of daily expenses or analyzing spending patterns over time, this expense tracker provides all the essential tools for better financial decision-making.
 
